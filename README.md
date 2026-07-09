@@ -1,5 +1,4 @@
 # ENCAPSULATION_SMART_DOOR_SYSTEM
-ADOMAKO VICENTIA-EL1A
 class Staff:
 def __init__(self,s_name,access_code):
 self.s_name=s_name
